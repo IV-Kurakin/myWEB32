@@ -12,6 +12,7 @@ main {
 h1 {
     font-family: 'Comfortaa';
     text-align: center;
+    color: red;
 }
 p {
     font-family: 'Play';
@@ -24,4 +25,5 @@ p {
 }
 .photoline img {
     width: 32%;
+    border-radius: 10px;
 }
